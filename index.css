@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
 }
-
+/* para cionfigurar id , usa-se # */ 
 #titulo {
     font-family: sans-serif;
     color: #380b61;
@@ -29,4 +29,8 @@ body{
     margin-left: 36%;
     margin-top: 2%;
     justify-content: center;
+}
+
+input, select, textarea, button {
+    border-radius: 5px;
 }
